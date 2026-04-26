@@ -23,6 +23,11 @@ The project tests two main analytical theories:
 * **"The Descriptor Premium"**: Investigating whether the length of a book title correlates with its average rating.
 * **"Survivor Bias & Brand Loyalty"**: Analyzing the correlation between author productivity and audience loyalty.
 
+##  Bonus Tasks Implemented
+* **Interactive Dashboard**: A professional-grade dashboard built with **Streamlit** and **Plotly**, featuring real-time data filtering and dynamic clustering exploration.
+* **API Scraping**: Integration with external job market data via Adzuna API.
+* **Clustering Model**: Automated segmentation of the dataset using Scikit-learn.
+  
 ##  How to Run
 
 1. **Install Dependencies:**
